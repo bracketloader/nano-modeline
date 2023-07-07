@@ -1,6 +1,6 @@
 ## N Λ N O Modeline
 
-Nano modeline is a an alterntive to the GNU/Emacs modeline. It can be
+Nano modeline is an alterntive to the GNU/Emacs modeline. It can be
 displayed at the bottom (mode-line) or at the top (header-line). It is
 roughly organized as:
 
